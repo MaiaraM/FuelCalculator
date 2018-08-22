@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FuelCalculadora</string>
+    <string name="tituloCarro">Consumo do carro (Km/Litro)</string>
+    <string name="tituloPreço">Preço do Combustível (R$)</string>
+    <string name="etanol">Etanol</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="nuloPreco">0,00</string>
+</resources>
